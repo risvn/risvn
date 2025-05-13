@@ -6,11 +6,11 @@ Minimalist by nature, builder by choice.
 I code with purpose and live in the terminal.  
 Diving deep into systems, automation, and full-stack web with Django and Python.
 
-🎓 [View My Resume](https://risvn.github.io/risvn/)
+ 📰[View My Resume](https://risvn.github.io/risvn/)
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Languages and Tools
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
