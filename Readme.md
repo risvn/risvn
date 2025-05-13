@@ -13,15 +13,15 @@ Diving deep into systems, automation, and full-stack web with Django and Python.
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="Django" width="30px" style="padding-right:10px; background-color: white; border-radius: 4px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg"/>
+<img align="left" alt="Django" width="30px" style="padding-right:10px ;" src="assets/icons/django.png"/>
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-plain.svg"/>
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-plain-wordmark.svg"/>
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="assets/icons/pands.jpg"/>
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px; background-color: white; border-radius: 4px;" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="assets/icons/bash.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
-<img align="left" alt="Tmux" width="30px" style="padding-right:10px; background-color: white; border-radius: 4px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tmux.svg"/>
+<img align="left" alt="Tmux" width="30px" style="padding-right:10px; " src="assets/icons/tmux.png"/>
 <br /><br />
 
 ---
