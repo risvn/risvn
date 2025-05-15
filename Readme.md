@@ -29,9 +29,7 @@ Diving deep into systems, automation, and full-stack web with Django and Python.
 
 ### 📊 GitHub Stats
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=risvn&color=yellow" alt="Profile Views" />
-</p>
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=risvn&show_icons=true&rank_icon=github&locale=en&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="risvn" />
