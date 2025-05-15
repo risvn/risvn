@@ -29,10 +29,10 @@ Diving deep into systems, automation, and full-stack web with Django and Python.
 
 ### 📊 GitHub Stats
 
-![risvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=risvn&show_icons=true&theme=gruvbox)
 
-<a href="https://github.com/risvn/github-readme-stats">
-  <img alt="risvn Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=risvn&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=risvn&show_icons=true&rank_icon=github&locale=en&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="risvn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risvn&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" />
 </a>
+
 
