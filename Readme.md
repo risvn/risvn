@@ -30,9 +30,19 @@ Diving deep into systems, automation, and full-stack web with Django and Python.
 ### 📊 GitHub Stats
 
 
-<a>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=risvn&show_icons=true&rank_icon=github&locale=en&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="risvn" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risvn&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" />
-</a>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=risvn&color=brightgreen" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=risvn&show_icons=true&rank_icon=github&locale=en&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risvn&layout=compact&langs_count=8&count_private=true&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 
