@@ -4,7 +4,7 @@
 
 Minimalist by nature, builder by choice.  
 I code with purpose and live in the terminal.  
-Diving deep into systems, automation , networks, databases ,web.
+Diving deep into systems, automation , networks, databases ,web.  
 Started getting in to homelab and selfhosting.  
 Some times i like to capture  [view my gallery](https://album.wannabex.sbs) and i also write [blog](https://risvn.github.io/blog/).
 -  [View My Resume](https://risvn.github.io/risvn/).
